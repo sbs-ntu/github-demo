@@ -1,5 +1,43 @@
+# Why do we use Git?
+The following pictures are from: [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
+
+<figure class="image">
+  <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_1.png">
+  <figcaption align="center" style="font-weight:bold">Problem 1: Chaotic Namings and Versions of Files<figcaption>
+</figure>
+
+</br>
+
+<figure class="image">
+  <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_2.png">
+  <figcaption align="center" style="font-weight:bold">Problem 2: Conflicts When Collaborating on the Same Files<figcaption>
+</figure>
+</br>
+<figure class="image">
+  <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_3.png">
+  <figcaption align="center" style="font-weight:bold">Git: Preserving File Versions and Raising Warnings When Modifying the Same Files<figcaption>
+</figure>
+
+# What is Git?
+The following pictures are from: [Manisha Basra](https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)
+
+1.
+<figure class="image">
+  <img src="./img/distributed-version-control-system.png">
+  <figcaption align="center" style="font-weight:bold">Distributed Version Control System</figcaption>
+</figure>
+
+2.
+<figure class="image">
+  <img src="./img/distributed-version-control.png">
+  <figcaption align="center" style="font-weight:bold">Distributed Version Control</figcaption>
+</figure>
+
+
+
+
 # Git vs. Github
-From [stackoverflow](https://stackoverflow.com/questions/13321556/difference-between-git-and-github):
+From the [Stackoverflow](https://stackoverflow.com/questions/13321556/difference-between-git-and-github):
 
 1. Git is a revision (or version) control system, a tool to manage your source code history.
 
@@ -9,30 +47,30 @@ From [stackoverflow](https://stackoverflow.com/questions/13321556/difference-bet
 
 </br>
 
-# Git Command vs. [Github Desktop](https://desktop.github.com)
+# Git Commands vs. [Github Desktop](https://desktop.github.com)
 
-### Both are able to do the same thing, but using commands will be a lot faster than using Github Desktop.
+### Both are able to do the same things, but using commands will be a lot faster than using Github Desktop.
 
 </br>
 
 # 1. Basic Shell Commands
 
-### 1. <strong>P</strong>rint <strong>C</strong>urrent <strong>D</strong>irectory
+### 1. **P**rint **C**urrent **D**irectory
 ```bash
 pwd
 ```
 
-### 2. <strong>C</strong>hange <strong>D</strong>irectory
+### 2. **C**hange **D**irectory
 ```bash
 cd your/file/path/
 ```
 
-###  3. <strong>M</strong>a<strong>k</strong>e <strong>Dir</strong>ectroy
+###  3. **M**a**k**e **Dir**ectroy
 ```bash
 mkdir your/folder/name
 ```
 
-### 4. <strong>M</strong>o<strong>v</strong>e or rename files
+### 4. **M**o**v**e or rename files
 
 ```bash 
 # move files
@@ -44,7 +82,7 @@ mv your/path/origin_name your/other/path/origin_name
 mv origin_name modified_name
 ```
 
-### 5. <strong>L</strong>i<strong>s</strong>t (files)
+### 5. **L**i**s**t (files)
 ```bash
 ls your/directory/
 ```
@@ -60,11 +98,11 @@ ls your/directory/
 # 3. Github Setup (SSH)
 
 
-### 1. Check if ssh public key exists
+### 1. Check if SSH public key exists
 ```bash
 ls ~/.ssh
 ```
-### 2. If <strong>Not</strong>, type:
+### 2. If **not**, type:
 ```bash
 ssh-keygen
 ```
@@ -81,19 +119,26 @@ clip < ~/.ssh/your.pub
 ```
 
 
-# 4. Using Git
+# 4. Using Git Verbs
 
-### 1. Fork
+
+### 1. Fork: make a copy from other's repository
 
 ![Fork](./img/fork.png)
 
-### 2. Clone
+### 2. Clone: download everything in a repository
 
 ```bash
 git clone git@github.com:NTU-Speech-Motor-Control-Lab/github-demo.git
 ```
 
-### 3. Add
+### 3. Status: check Git status
+
+```bash
+git status
+```
+
+### 3. Add: allow Git to track file changes
 
 ```bash
 git add your-file-name
@@ -103,25 +148,25 @@ git add your-file-name
 git add .
 ```
 
-### 4. Commit
+### 4. Commit: submit a new version to Git
 
 ```bash
 git commit -m "your commit message"
 ```
 
-### 5. Push
+### 5. Push: updating remote repository
 
 ```bash
 git push 
 ```
 
-### <div style="color:red">**NEVER DO THIS unless you know what you are doing.** </div>
+### <div style="color:red">**NEVER DO THIS Unless You Know What You Are Doing.** </div>
 ```bash
 git push -f
 ```
 
 
-### 6. Pull
+### 6. Pull: updating local repository
 ```
 git pull 
 ```
@@ -149,3 +194,11 @@ git pull
 ## Add your name and github account below.
 
 *
+
+
+# 7. Resources
+
+[W3HexShool](https://w3c.hexschool.com/git/fd426d5a) 
+
+[連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
+
