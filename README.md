@@ -1,8 +1,19 @@
-# github-demo
+# Git vs. Github
+From [stackoverflow](https://stackoverflow.com/questions/13321556/difference-between-git-and-github):
 
+1. Git is a revision (or version) control system, a tool to manage your source code history.
 
-## Git vs. Github
+2. GitHub is a hosting service for Git repositories.
 
+3. So they are not the same thing: Git is the tool, GitHub is the service for projects that use Git.
+
+</br>
+
+# Git Command vs. [Github Desktop](https://desktop.github.com)
+
+### Both are able to do the same thing, but using commands will be a lot faster than using Github Desktop.
+
+</br>
 
 # 1. Basic Shell Commands
 
@@ -104,6 +115,12 @@ git commit -m "your commit message"
 git push 
 ```
 
+### <div style="color:red">**NEVER DO THIS unless you know what you are doing.** </div>
+```bash
+git push -f
+```
+
+
 ### 6. Pull
 ```
 git pull 
@@ -127,4 +144,8 @@ git pull
 
 ![Open pull request](./img/open-pull-request.gif)
 
-# 6. Members
+# 6. Practice
+
+## Add your name and github account below.
+
+*
