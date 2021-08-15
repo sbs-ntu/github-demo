@@ -1,4 +1,4 @@
-# Why do we use Git?
+# Why do we want to use Git?
 The following pictures are from: [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
 
 <figure class="image">
@@ -12,13 +12,20 @@ The following pictures are from: [連猴子都能懂的Git入門指南](https://
   <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_2.png">
   <figcaption align="center" style="font-weight:bold">Problem 2: Conflicts When Collaborating on the Same Files<figcaption>
 </figure>
+
 </br>
+
 <figure class="image">
   <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_3.png">
   <figcaption align="center" style="font-weight:bold">Git: Preserving File Versions and Raising Warnings When Modifying the Same Files<figcaption>
 </figure>
 
 # What is Git?
+
+### **Git is a distributed version control system**
+
+<br>
+
 The following pictures are from: [Manisha Basra](https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)
 
 1.
