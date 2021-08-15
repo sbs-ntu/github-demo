@@ -2,22 +2,26 @@
 The following pictures are from: [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
 
 </br>
+<div style="text-align:center;font-weight:bold;">
 
 ![Problem 1: Chaotic Namings and Versions of Files](https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_1.png)
 
-</br>
-
-<figure align="center">
-  <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_2.png">
-  <figcaption style="font-weight:bold">Problem 2: Conflicts When Collaborating on the Same Files<figcaption>
-</figure>
+Problem 1: Chaotic Namings and Versions of Files
 
 </br>
 
-<figure align="center">
-  <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_3.png">
-  <figcaption  style="font-weight:bold">Git: Preserving File Versions and Raising Warnings When Modifying the Same Files<figcaption>
-</figure>
+![Problem 2: Conflicts When Collaborating on the Same Files](https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_2.png)
+
+Problem 2: Conflicts When Collaborating on the Same Files
+
+</br>
+
+
+![Git: Preserving File Versions and Raising Warnings When Modifying the Same Files](https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_3.png)
+
+Git: Preserving File Versions and Raising Warnings When Modifying the Same Files
+
+</div>
 
 # What is Git?
 
@@ -27,17 +31,25 @@ The following pictures are from: [連猴子都能懂的Git入門指南](https://
 
 The following pictures are from: [Manisha Basra](https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)
 
-1.
-<figure align="center">
-  <img src="./img/distributed-version-control-system.png">
-  <figcaption  style="font-weight:bold">Distributed Version Control System</figcaption>
-</figure>
+### 1.
+<div style="text-align:center;font-weight:bold;">
 
-2.
-<figure align="center">
-  <img src="./img/distributed-version-control.png">
-  <figcaption style="font-weight:bold">Distributed Version Control</figcaption>
-</figure>
+![Distributed Version Control System](./img/distributed-version-control-system.png)
+Distributed Version Control System
+
+</div >
+
+
+### 2.
+
+<div style="text-align:center;font-weight:bold;">
+
+![Distributed Version Control](./img/distributed-version-control.png)
+
+Distributed Version Control System
+
+
+</div>
 
 
 
