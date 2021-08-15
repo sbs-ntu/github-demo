@@ -1,10 +1,9 @@
 # Why do we want to use Git?
 The following pictures are from: [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
 
-<figure align="center">
-  <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_1.png">
-  <figcaption style="font-weight:bold">Problem 1: Chaotic Namings and Versions of Files<figcaption>
-</figure>
+</br>
+
+![Problem 1: Chaotic Namings and Versions of Files](https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_1.png)
 
 </br>
 
