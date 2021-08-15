@@ -1,23 +1,23 @@
 # Why do we want to use Git?
 The following pictures are from: [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
 
-<figure class="image">
+<figure align="center">
   <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_1.png">
-  <figcaption align="center" style="font-weight:bold">Problem 1: Chaotic Namings and Versions of Files<figcaption>
+  <figcaption style="font-weight:bold">Problem 1: Chaotic Namings and Versions of Files<figcaption>
 </figure>
 
 </br>
 
-<figure class="image">
+<figure align="center">
   <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_2.png">
-  <figcaption align="center" style="font-weight:bold">Problem 2: Conflicts When Collaborating on the Same Files<figcaption>
+  <figcaption style="font-weight:bold">Problem 2: Conflicts When Collaborating on the Same Files<figcaption>
 </figure>
 
 </br>
 
-<figure class="image">
+<figure align="center">
   <img src="https://backlog.com/git-tutorial/tw/img/post/intro/capture_intro1_1_3.png">
-  <figcaption align="center" style="font-weight:bold">Git: Preserving File Versions and Raising Warnings When Modifying the Same Files<figcaption>
+  <figcaption  style="font-weight:bold">Git: Preserving File Versions and Raising Warnings When Modifying the Same Files<figcaption>
 </figure>
 
 # What is Git?
@@ -29,15 +29,15 @@ The following pictures are from: [連猴子都能懂的Git入門指南](https://
 The following pictures are from: [Manisha Basra](https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)
 
 1.
-<figure class="image">
+<figure align="center">
   <img src="./img/distributed-version-control-system.png">
-  <figcaption align="center" style="font-weight:bold">Distributed Version Control System</figcaption>
+  <figcaption  style="font-weight:bold">Distributed Version Control System</figcaption>
 </figure>
 
 2.
-<figure class="image">
+<figure align="center">
   <img src="./img/distributed-version-control.png">
-  <figcaption align="center" style="font-weight:bold">Distributed Version Control</figcaption>
+  <figcaption style="font-weight:bold">Distributed Version Control</figcaption>
 </figure>
 
 
