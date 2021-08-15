@@ -109,8 +109,22 @@ git push
 git pull 
 ```
 
-### 7. Pull Request (PR)
+# 5. Pull Request (PR)
 
+### 1. 
 
+![Pull-request](./img/pull-request.png)
 
-# 5. Members
+### 2. 
+
+![New-Pull-Request-Button](./img/pr-button.png)
+
+### 3.
+
+![Create pull request](./img/create-pull-request.png)
+
+### 4.
+
+![Open pull request](./img/open-pull-request.gif)
+
+# 6. Members
