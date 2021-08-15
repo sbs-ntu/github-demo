@@ -35,6 +35,7 @@ The following pictures are from: [Manisha Basra](https://medium.com/swlh/things-
 <div style="text-align:center;font-weight:bold;">
 
 ![Distributed Version Control System](./img/distributed-version-control-system.png)
+
 Distributed Version Control System
 
 </div >
@@ -47,7 +48,6 @@ Distributed Version Control System
 ![Distributed Version Control](./img/distributed-version-control.png)
 
 Distributed Version Control System
-
 
 </div>
 
