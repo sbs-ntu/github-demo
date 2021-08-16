@@ -179,7 +179,7 @@ clip < ~/.ssh/your.pub
 
 3. Click **New SSH Keys**
 
-    ![new-ssh-keys](./img/new-ssh-key.png)
+    ![new-ssh-key](./img/new-ssh-key.png)
 
 4. Click **Add SSH key** after filling out the form
 
