@@ -228,7 +228,7 @@ git commit -m "your commit message"
 git push 
 ```
 
-### <span style="color:red">**NEVER DO THIS Unless You Know What You Are Doing.** </span>
+### <span style="color:red">**NEVER DO THIS Unless You Know What You Are Doing** </span>
 ```bash
 git push -f
 ```
