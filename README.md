@@ -1,3 +1,34 @@
+# Github Workflow Demostration
+
+- [Why do we want to use Git?](#why-do-we-want-to-use-git-)
+- [What is Git?](#what-is-git-)
+- [Git vs. Github](#git-vs-github)
+- [Git Commands vs. Github Desktop](#git-commands-vs--github-desktop--https---desktopgithubcom-)
+
+- [1. Basic Shell Commands](#1-basic-shell-commands)
+    + [1. **P**rint **C**urrent **D**irectory](#1---p--rint---c--urrent---d--irectory)
+    + [2. **C**hange **D**irectory](#2---c--hange---d--irectory)
+    + [3. **M**a**k**e **Dir**ectroy](#3---m--a--k--e---dir--ectroy)
+    + [4. **M**o**v**e or rename files](#4---m--o--v--e-or-rename-files)
+    + [5. **L**i**s**t (files)](#5---l--i--s--t--files-)
+- [2. Symbols](#2-symbols)
+- [3. Github Setup (SSH)](#3-github-setup--ssh-)
+- [4. Using Git Verbs](#4-using-git-verbs)
+    + [1. Fork: make a copy from other's repository](#1-fork--make-a-copy-from-other-s-repository)
+    + [2. Clone: download everything in a repository](#2-clone--download-everything-in-a-repository)
+    + [3. Status: check Git status](#3-status--check-git-status)
+    + [3. Add: allow Git to track file changes](#3-add--allow-git-to-track-file-changes)
+    + [4. Commit: submit a new version to Git](#4-commit--submit-a-new-version-to-git)
+    + [5. Push: updating remote repository](#5-push--updating-remote-repository)
+    + [<div style="color:red">**NEVER DO THIS Unless You Know What You Are Doing.** </div>](#-span-style--color-red----never-do-this-unless-you-know-what-you-are-doing-----span-)
+    + [6. Pull: updating local repository](#6-pull--updating-local-repository)
+- [5. Pull Request (PR)](#5-pull-request--pr-)
+- [6. Practice](#6-practice)
+- [7. Resources](#7-resources)
+
+
+
+
 # Why do we want to use Git?
 The following pictures are from: [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
 
@@ -197,7 +228,7 @@ git commit -m "your commit message"
 git push 
 ```
 
-### <div style="color:red">**NEVER DO THIS Unless You Know What You Are Doing.** </div>
+### <span style="color:red">**NEVER DO THIS Unless You Know What You Are Doing.** </span>
 ```bash
 git push -f
 ```
