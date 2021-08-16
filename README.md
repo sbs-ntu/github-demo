@@ -136,6 +136,25 @@ pbcopy < ~/.ssh/your.pub
 clip < ~/.ssh/your.pub
 ```
 
+1. Click your profile picture and find **Settings**.
+
+    ![settings](./img/settings.png)
+
+
+2. Click **SSH and GPG keys** on the left hand side.
+
+    ![ssh-gpg-keys](./img/ssh-gpg-keys.png)
+
+
+3. Click **New SSH Keys**
+
+    ![new-ssh-keys](./img/new-ssh-key.png)
+
+4. Click **Add SSH key** after filling out the form
+
+    ![add-ssh-keys](./img/add-ssh-keys.png)
+
+
 
 # 4. Using Git Verbs
 
