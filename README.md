@@ -20,7 +20,7 @@
     + [3. Add: allow Git to track file changes](#3-add-allow-git-to-track-file-changes)
     + [4. Commit: submit a new version to Git](#4-commit-submit-a-new-version-to-git)
     + [5. Push: updating remote repository](#5-push-updating-remote-repository)
-    + [<div style="color:red">**NEVER DO THIS Unless You Know What You Are Doing.** </div>](#never-do-this-unless-you-know-what-you-are-doing)
+    + [**NEVER DO THIS Unless You Know What You Are Doing**](#never-do-this-unless-you-know-what-you-are-doing-)
     + [6. Pull: updating local repository](#6-pull-updating-local-repository)
 - [5. Pull Request (PR)](#5-pull-request-pr)
 - [6. Practice](#6-practice)
