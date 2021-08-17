@@ -282,7 +282,7 @@ git pull
 
 ## Add your name and github account below.
 
-*
+* [Theodore][https://github.com/theodorelaix/]
 
 
 # 7. Resources
