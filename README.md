@@ -7,7 +7,7 @@
 - [Git Commands vs. Github Desktop](#git-commands-vs-github-desktophttpsdesktopgithubcom)
 
 - [1. Basic Shell Commands](#1-basic-shell-commands)
-    - [1. **P**rint **C**urrent **D**irectory](#1-print-current-directory)
+    - [1. **P**rint **W**orking **D**irectory](#1-print-working-directory)
     - [2. **C**hange **D**irectory](#2-change-directory)
     - [3. **M**a**k**e **Dir**ectroy](#3-make-directroy)
     - [4. **M**o**v**e or rename files](#4-move-or-rename-files)
@@ -96,7 +96,7 @@ From the [Stackoverflow](https://stackoverflow.com/questions/13321556/difference
 
 # 1. Basic Shell Commands
 
-### 1. **P**rint **C**urrent **D**irectory
+### 1. **P**rint **W**orking **D**irectory
 ```bash
 pwd
 ```
