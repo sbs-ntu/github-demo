@@ -280,7 +280,7 @@ git pull
 
 # 6. Practice
 
-## Add your name and github account below.
+## Add your name and github account below. happy
 
 *
 
