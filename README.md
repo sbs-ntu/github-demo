@@ -282,7 +282,7 @@ git pull
 
 ## Add your name and github account below.
 
-*
+* [Chenhao](https://github.com/ChenhaoChiu)
 
 
 # 7. Resources
