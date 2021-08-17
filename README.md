@@ -282,7 +282,7 @@ git pull
 
 ## Add your name and github account below.
 
-*
+* [Bo-wei Chen](https://github.com/Rayologist)
 
 
 # 7. Resources
