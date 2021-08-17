@@ -62,7 +62,7 @@ Git: Preserving File Versions and Raising Warnings When Modifying the Same Files
 
 <br>
 
-The following pictures are from: [Manisha Basra](https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)
+The following picture is from: [Manisha Basra](https://medium.com/swlh/things-about-git-and-github-you-need-to-know-as-developer-907baa0bed79)
 
 
 
@@ -163,7 +163,7 @@ rm -r <your folder>
 rmdir <your folder>
 ```
 
-### 8. Clear Console
+### 8. **Clear** Console
 ```bash
 clear
 ```
