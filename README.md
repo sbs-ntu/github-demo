@@ -1,6 +1,4 @@
-# Github Workflow Demostration
-
-# Table of contents
+# Github Workflow Demonstration
 
 - [Github Workflow Demostration](#github-workflow-demostration)
 - [Why do we want to use Git?](#why-do-we-want-to-use-git)
