@@ -13,6 +13,8 @@
     - [4. **M**o**v**e or rename files](#4-move-or-rename-files)
     - [5. **L**i**s**t (files)](#5-list-files)
     - [6. Read Files](#6-read-files)
+    - [7. Remove Files or Folders](#7-remove-files-or-folders)
+    - [8. Clear Console](#8-clear-console)
 - [2. Symbols](#2-symbols)
 - [3. Github Setup (SSH)](#3-github-setup-ssh)
 - [4. Using Git Verbs](#4-using-git-verbs)
@@ -111,7 +113,7 @@ cd your/file/path/
 mkdir your/folder/name
 ```
 
-### 4. **M**o**v**e or rename files
+### 4. **M**o**v**e or Rename Files
 
 ```bash 
 # move files
@@ -145,12 +147,34 @@ less <your file name>
 # press "space bar" to output next page
 ```
 
+### 7. **R**e**m**ove Files or Folders
+
+**Be careful** using the following conmmands. Files or folders will be **deleted permanently** without being able to be recovered.
+
+```bash
+# Remove files
+rm <your file path>
+```
+
+```bash
+# Remove folders
+rm -r <your folder>
+# or
+rmdir <your folder>
+```
+
+### 8. Clear Console
+```bash
+clear
+```
+
 
 # 2. Symbols
 ```bash
 / # root directory
 ~ # home directory
 . # current directory
+.. # parent directory
 ```
 
 
