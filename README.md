@@ -318,3 +318,4 @@ git pull
 
 [連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/)
 
+[為你自己學 Git](https://backlog.com/git-tutorial/tw/intro/intro1_1.html)
