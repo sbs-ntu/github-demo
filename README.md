@@ -1,6 +1,5 @@
 # Github Workflow Demonstration
 
-- [Github Workflow Demostration](#github-workflow-demostration)
 - [Why do we want to use Git?](#why-do-we-want-to-use-git)
 - [What is Git?](#what-is-git)
 - [Git vs. Github](#git-vs-github)
