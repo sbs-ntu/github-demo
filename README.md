@@ -283,10 +283,10 @@ git pull
 ## Add your name and github account below.
 
 
+* [Theodore](https://github.com/theodorelaix/)
 * [Jian-zhi Hess Huang](https://github.com/JzHess)
 * [Chenhao](https://github.com/ChenhaoChiu)
 * [Bo-wei Chen](https://github.com/Rayologist)
-
 
 
 # 7. Resources
