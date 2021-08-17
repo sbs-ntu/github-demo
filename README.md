@@ -282,7 +282,9 @@ git pull
 
 ## Add your name and github account below.
 
+
 * [Chenhao](https://github.com/ChenhaoChiu)
+* [Bo-wei Chen](https://github.com/Rayologist)
 
 
 # 7. Resources
