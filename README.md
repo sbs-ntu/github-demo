@@ -310,7 +310,7 @@ git pull
 * [Chenhao](https://github.com/ChenhaoChiu)
 * [Bo-wei Chen](https://github.com/Rayologist)
 * [Benson](https://github.com/Peh-Suan/)
-* [Patrick Yihong Wu] (https://github.com/patrickwoolf/)
+* [Patrick Yihong Wu](https://github.com/patrickwoolf/)
 
 # 7. Resources
 
