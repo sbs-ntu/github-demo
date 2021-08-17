@@ -282,7 +282,7 @@ git pull
 
 ## Add your name and github account below.
 
-*
+* [Jian-zhi Hess Huang](https://github.com/JzHess)
 
 
 # 7. Resources
