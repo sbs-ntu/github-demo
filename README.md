@@ -310,6 +310,7 @@ git pull
 * [Chenhao](https://github.com/ChenhaoChiu)
 * [Bo-wei Chen](https://github.com/Rayologist)
 * [Benson](https://github.com/Peh-Suan/)
+* [Yinching](https://github.com/ChangYC41)
 
 # 7. Resources
 
