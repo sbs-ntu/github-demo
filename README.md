@@ -311,6 +311,8 @@ git pull
 * [Bo-wei Chen](https://github.com/Rayologist)
 * [Benson](https://github.com/Peh-Suan/)
 * [Yinching](https://github.com/ChangYC41)
+* [Patrick Yihong Wu](https://github.com/patrickwoolf/)
+
 
 # 7. Resources
 
