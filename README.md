@@ -233,6 +233,24 @@ clip < ~/.ssh/your.pub
 git clone <your copied url>
 ```
 
+or you can rename the folder
+
+```bash
+git clone <your copied url> <folder name you want>
+```
+
+> ### Remember [cd](github-demo#2-change-directory) into the folder you clone
+
+```bash
+cd <folder name you want>
+```
+
+You can also combine the commands above as in the following example (the symbol `&&` means `and`):
+
+```bash
+git clone git@github.com:NTU-Speech-Behavior-and-Science-Lab/github-demo.git github-demonstration && cd github-demonstration
+```
+
 ### 3. Status: check Git status
 
 ```bash
