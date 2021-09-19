@@ -239,7 +239,7 @@ or you can rename the folder
 git clone <your copied url> <folder name you want>
 ```
 
-> ### Remember [cd](#2-change-directory) into the folder you clone
+> ### Remember to [cd](#2-change-directory) into the folder you clone
 
 ```bash
 cd <folder name you want>
