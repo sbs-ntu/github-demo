@@ -330,6 +330,7 @@ git pull
 - [Patrick Yihong Wu](https://github.com/patrickwoolf/)
 - [Willy Wang](https://github.com/willy970313)
 - [Joanne Chi](https://github.com/lowannann)
+- [Mia Prin.](https://github.com/miaykc)
 
 # 7. Resources
 
