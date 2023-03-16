@@ -329,6 +329,7 @@ git pull
 - [Yinching](https://github.com/ChangYC41)
 - [Patrick Yihong Wu](https://github.com/patrickwoolf/)
 - [Willy Wang](https://github.com/willy970313)
+- [Joanne Chi](https://github.com/lowannann)
 
 # 7. Resources
 
