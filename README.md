@@ -175,6 +175,7 @@ clear
 ~ # home directory
 . # current directory
 .. # parent directory
+- # last directory
 ```
 
 # 3. Github Setup (SSH)
