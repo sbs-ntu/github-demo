@@ -332,6 +332,9 @@ git pull
 - [Willy Wang](https://github.com/willy970313)
 - [Joanne Chi](https://github.com/lowannann)
 - [Mia Prin.](https://github.com/miaykc)
+- [Micah Kitsunai](https://github.com/muoegu)
+
+
 
 # 7. Resources
 
