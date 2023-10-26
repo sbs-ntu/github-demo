@@ -334,8 +334,6 @@ git pull
 - [Mia Prin.](https://github.com/miaykc)
 - [Micah Kitsunai](https://github.com/muoegu)
 
-
-
 # 7. Resources
 
 [W3HexShool](https://w3c.hexschool.com/git/fd426d5a)
